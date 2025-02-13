@@ -202,11 +202,7 @@
                 margin-top: 10px;
             }
         
-            .container {
-                width: 90%;
-                margin: auto;
-                text-align: center;
-            }
+            
         
             button {
                 width: 80%;
@@ -240,7 +236,6 @@
             cursor: pointer;
           text-decoration: none;
                     color:#fff;
-            
         }
             .footer{
                 margin-top: 3px;
