@@ -199,7 +199,7 @@
            .img-hero {
         width: 100%;
         min-height: 60vh; /* Adjust as needed */
-        object-fit: cover;
+/*         object-fit: cover; */
     } 
  
                  
