@@ -195,9 +195,12 @@
                 flex-direction: column;
                 align-items: center;
             }
-        
+         .img-hero{
+           max-width: 120% ;
+                 height:70%;
+                 
             .hero-img {
-                width: 25px;
+                width: 40px;
                 height: 50px;
                 margin-top: 10px;
             }
