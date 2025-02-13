@@ -136,14 +136,10 @@
 
         span{
             cursor: pointer;
-            transition: transform 0.2s;
             
         }
 
-        span:hover{
-            transform: scale(1.2);
-        
-        }
+       
         .footer {
             text-align: center;
             padding: 10px;
@@ -202,7 +198,7 @@
         
             .hero-img {
                 width: 25px;
-                height: 40px;
+                height: 50px;
                 margin-top: 10px;
             }
         
@@ -240,7 +236,12 @@
             .instagram {
                 width: 30px;
             }
-
+            span{
+            cursor: pointer;
+          text-decoration: none;
+                    color:#fff;
+            
+        }
             .footer{
                 margin-top: 3px;
             }
